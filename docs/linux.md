@@ -97,7 +97,7 @@ Or by downloading the ollama binary:
 
 ```bash
 sudo curl -L https://ollama.com/download/ollama-linux-amd64 -o /usr/bin/ollama
-sudo chmod +x /usr/bin/ollama
+sudo chmod +x /usr/local/bin/ollama
 ```
 
 ## Viewing logs
